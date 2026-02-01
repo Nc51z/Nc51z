@@ -35,7 +35,7 @@
 ---
 
 
-### Social Links
+### Links
 
 <p align="left">
   <a href="https://youtube.com/@nc512z?si=3molhWrXSwPpkUMc" target="_blank">
@@ -46,5 +46,16 @@
     <img src="https://img.icons8.com/?size=100&id=1349&format=png&color=FFFFFF" width="40" height="40" alt="Website" />
   </a>
 </p>
+<a href="https://nc51z.github.io/cheat-sheets/" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #24292e;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-weight: bold;">
+  Cheat Sheets (fr)
+</a>
                                        
 

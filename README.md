@@ -3,7 +3,7 @@
 
 --- 
 
-**IT Bachelor STUDENT**   
+**IT Bachelor student**   
 *Network Infrastructure & Automation through Scripting.*
 
 ---

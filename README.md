@@ -1,8 +1,3 @@
-
-<img width="400" height="177" alt="ascii-art-text-removebg-preview" src="https://github.com/user-attachments/assets/498c9995-43b6-4586-ae40-6203c574e6ee" /> 
-
---- 
-
 **IT Bachelor student**   
 *Network Infrastructure & Automation through Scripting.*
 
